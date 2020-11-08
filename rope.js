@@ -12,9 +12,9 @@ class Rope{
         
     }
     display(){
-        var Anchor1=this.rope.bodyA.position
+       // var Anchor1=this.rope.bodyA.position
        // var Anchor2x=this.rope.bodyB.position.x+this.offsetX
        // var Anchor2y=this.rope.bodyB.position.y+this.offsetY
-        line(Anchor1.x,Anchor1.y, Anchor2x,Anchor2y)  
+       // line(Anchor1.x,Anchor1.y, Anchor2x,Anchor2y)  
     }
 }
